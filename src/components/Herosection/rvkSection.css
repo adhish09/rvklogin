@@ -1,0 +1,99 @@
+.about-us1,
+.raj-vidya-kender1 {
+  position: absolute;
+  font-weight: 500;
+}
+.about-us1 {
+  top: 9.38rem;
+  left: 74.63rem;
+  letter-spacing: 0.1em;
+  text-align: right;
+}
+.raj-vidya-kender1 {
+  top: 13.19rem;
+  left: 63.19rem;
+  font-size: var(--font-size-2xl);
+  color: var(--color-tan);
+  text-align: left;
+}
+.frame-child1,
+.image-16-icon1 {
+  position: absolute;
+  object-fit: cover;
+}
+.image-16-icon1 {
+  top: 1.56rem;
+  left: 31.44rem;
+  width: 15.63rem;
+  height: 15.63rem;
+  opacity: 0.4;
+}
+.frame-child1 {
+  top: 5.88rem;
+  left: 7.25rem;
+  border-radius: var(--br-2xl);
+  width: 31.75rem;
+  height: 36.48rem;
+}
+.a-non-profit-charitable1 {
+  position: absolute;
+  top: 17.81rem;
+  left: 51.13rem;
+  font-size: var(--font-size-base);
+  letter-spacing: 0.1em;
+  line-height: 2.5rem;
+  color: var(--color-gray-100);
+  display: flex;
+  align-items: center;
+  width: 31.38rem;
+}
+
+.rectangle-div {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--color-darkgray);
+  width: 9.38rem;
+  height: 2.5rem;
+}
+
+.know-more1 {
+  position: absolute;
+  top: 0.69rem;
+  left: 1.25rem;
+  letter-spacing: 0em;
+  display: flex;
+  align-items: center;
+  width: 5.69rem;
+  height: 1.06rem;
+}
+
+.arrow-icon {
+  position: absolute;
+  top: 0.83rem;
+  left: 7.72rem;
+  width: 0.69rem;
+  height: 0.54rem;
+}
+.rectangle-parent1 {
+  position: absolute;
+  top: 36.25rem;
+  left: 50.69rem;
+  width: 9.38rem;
+  height: 2.5rem;
+  font-size: var(--font-size-2xs);
+  color: var(--color-white);
+}
+.about-us-parent {
+  position: absolute;
+  top: 112.94rem;
+  left: 1.5rem;
+  width: 100%;
+  height: 45.63rem;
+  overflow: hidden;
+  text-align: justify;
+  font-size: var(--font-size-lg);
+  color: var(--color-darkgray);
+  font-family: var(--font-poppins);
+}

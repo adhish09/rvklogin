@@ -1,0 +1,97 @@
+.image-16-icon,
+.rectangle-icon {
+  position: absolute;
+  object-fit: cover;
+}
+.image-16-icon {
+  top: 1.5rem;
+  left: 42.75rem;
+  width: 15.63rem;
+  height: 15.63rem;
+  opacity: 0.4;
+}
+.rectangle-icon {
+  top: 5.88rem;
+  left: 51rem;
+  border-radius: var(--br-2xl);
+  width: 31.75rem;
+  height: 36.48rem;
+}
+.ambassador-of-peace,
+.prem-rawat {
+  position: absolute;
+  left: 7.5rem;
+  font-weight: 500;
+}
+.prem-rawat {
+  top: 8.75rem;
+  text-align: right;
+  display: flex;
+  align-items: center;
+  width: 9.5rem;
+  height: 0.94rem;
+}
+.ambassador-of-peace {
+  top: 11.94rem;
+  font-size: var(--font-size-2xl);
+  color: var(--color-tan);
+  text-align: left;
+}
+.a-non-profit-charitable {
+  position: absolute;
+  top: 16.56rem;
+  left: 7.5rem;
+  font-size: var(--font-size-base);
+  letter-spacing: 0.1em;
+  line-height: 2.5rem;
+  color: var(--color-gray-100);
+  display: flex;
+  align-items: center;
+  width: 31.38rem;
+}
+.group-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--color-darkgray);
+  width: 9.38rem;
+  height: 2.5rem;
+}
+.know-more {
+  position: absolute;
+  top: 0.69rem;
+  left: 1.25rem;
+  display: flex;
+  align-items: center;
+  width: 5.69rem;
+  height: 1.06rem;
+}
+.group-div,
+.group-inner {
+  position: absolute;
+  top: 0.83rem;
+  left: 7.72rem;
+  width: 0.69rem;
+  height: 0.54rem;
+}
+.group-div {
+  top: 35rem;
+  left: 7.5rem;
+  width: 9.38rem;
+  height: 2.5rem;
+  font-size: var(--font-size-2xs);
+  color: var(--color-white);
+}
+.image-16-parent {
+  position: absolute;
+  top: 63.56rem;
+  left: 0;
+  width: 90rem;
+  height: 45.63rem;
+  overflow: hidden;
+  text-align: justify;
+  font-size: var(--font-size-lg);
+  color: var(--color-darkgray);
+  font-family: var(--font-poppins);
+}

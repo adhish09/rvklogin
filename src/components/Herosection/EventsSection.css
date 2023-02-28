@@ -1,0 +1,359 @@
+.frame-child2 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 90rem;
+    height: 56.25rem;
+  }
+  .our-events {
+    position: absolute;
+    top: 1.25rem;
+    left: 40.31rem;
+    letter-spacing: 0.1em;
+    font-weight: 500;
+    text-align: justify;
+  }
+  .lorem-ipsum-dolor {
+    position: absolute;
+    top: 10.63rem;
+    left: 20.25rem;
+    font-size: var(--font-size-base);
+    letter-spacing: 0.05em;
+    line-height: 2.5rem;
+    color: var(--color-gray-100);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 49.5rem;
+  }
+  .check-our-upcoming {
+    position: absolute;
+    top: 5.38rem;
+    left: 29.13rem;
+    font-size: var(--font-size-2xl);
+    font-weight: 500;
+    color: var(--color-tan);
+  }
+  .frame-child3,
+  .group-child1 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: var(--br-md);
+  }
+  .frame-child3 {
+    width: 25rem;
+    height: 31.25rem;
+    object-fit: cover;
+  }
+  .group-child1 {
+    background-color: var(--color-white);
+    width: 22.31rem;
+    height: 7.5rem;
+  }
+  .group-child2 {
+    position: absolute;
+    top: 28.69rem;
+    left: 8.44rem;
+    width: 0.94rem;
+    height: 0;
+  }
+  .lorem-ipsym-in {
+    position: absolute;
+    top: 2.88rem;
+    left: 1.5rem;
+    font-size: var(--font-size-lg);
+    display: flex;
+    align-items: center;
+    width: 17.69rem;
+    height: 1.75rem;
+  }
+  .location {
+    top: 1.31rem;
+    left: 2.31rem;
+    font-size: var(--font-size-2xs);
+    text-align: center;
+    justify-content: center;
+    width: 3.75rem;
+  }
+  .am,
+  .am1,
+  .join-with-us,
+  .location {
+    position: absolute;
+    display: flex;
+    align-items: center;
+    height: 0.63rem;
+  }
+  .join-with-us {
+    top: 5.56rem;
+    left: 1.5rem;
+    font-size: var(--font-size-2xs);
+    color: var(--color-tan);
+    text-align: center;
+    justify-content: center;
+    width: 5.25rem;
+  }
+  .am,
+  .am1 {
+    top: 1.38rem;
+    left: 12.06rem;
+    width: 2.88rem;
+  }
+  .am1 {
+    left: 16.13rem;
+  }
+  .material-symbolslocation-on-o-icon,
+  .mdiclock-time-four-outline-icon {
+    position: absolute;
+    top: 1.06rem;
+    left: 0.88rem;
+    width: 1.25rem;
+    height: 1.25rem;
+    overflow: hidden;
+  }
+  .mdiclock-time-four-outline-icon {
+    left: 10.38rem;
+  }
+  .group-child3,
+  .to {
+    position: absolute;
+    top: 5.53rem;
+    left: 7.06rem;
+    width: 0.98rem;
+    height: 0.69rem;
+  }
+  .to {
+    top: 1.38rem;
+    left: 15.19rem;
+    display: flex;
+    align-items: center;
+    width: 0.69rem;
+    height: 0.56rem;
+  }
+  .rectangle-parent3 {
+    position: absolute;
+    top: 22.81rem;
+    left: 1.25rem;
+    width: 22.31rem;
+    height: 7.5rem;
+  }
+  .group-child4 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: var(--br-md);
+    background-color: var(--color-darkgray);
+    width: 4.38rem;
+    height: 4.38rem;
+  }
+  .p {
+    margin-block-start: 0;
+    margin-block-end: 0;
+  }
+  .oct1 {
+    margin: 0;
+  }
+  .oct {
+    position: absolute;
+    top: 0.31rem;
+    left: 0.75rem;
+    line-height: 1.88rem;
+  }
+
+  .rectangle-parent4 {
+    position: absolute;
+    top: 1.88rem;
+    left: 1.25rem;
+    width: 4.38rem;
+    height: 4.38rem;
+    text-align: center;
+    font-size: var(--font-size-lg);
+    color: var(--color-white);
+  }
+
+  .rectangle-parent2 {
+    position: absolute;
+    top: 0;
+    left: 1.56rem;
+    width: 25rem;
+    height: 31.25rem;
+    text-align: left;
+    font-size: var(--font-size-5xs);
+    color: var(--color-darkgray);
+  }
+
+  .group-child6 {
+    position: absolute;
+    top: 5.88rem;
+    left: 7.19rem;
+    width: 0.94rem;
+    height: 0;
+  }
+
+  .join-with-us1 {
+    position: absolute;
+    top: 5.56rem;
+    left: 1.5rem;
+    font-size: var(--font-size-2xs);
+    color: var(--color-darksalmon);
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 5.25rem;
+    height: 0.63rem;
+  }
+
+  .group-child7 {
+    position: absolute;
+    top: 5.88rem;
+    left: 7.06rem;
+    width: 0.94rem;
+    height: 0;
+  }
+
+  .group-child8 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: var(--br-md);
+    background-color: var(--color-steelblue);
+    width: 4.38rem;
+    height: 4.38rem;
+  }
+  .rectangle-parent5 {
+    position: absolute;
+    top: 0;
+    left: 85.94rem;
+    width: 25rem;
+    height: 31.25rem;
+    text-align: left;
+    font-size: var(--font-size-5xs);
+    color: var(--color-steelblue);
+  }
+  .rectangle-parent10,
+  .rectangle-parent9 {
+    position: absolute;
+    left: 1.25rem;
+  }
+  .rectangle-parent9 {
+    top: 1.88rem;
+    width: 4.38rem;
+    height: 4.38rem;
+  }
+  .rectangle-parent10 {
+    top: 22.81rem;
+    width: 22.31rem;
+    height: 7.5rem;
+    text-align: left;
+    font-size: var(--font-size-5xs);
+    color: var(--color-darkgray);
+  }
+  .rectangle-parent8 {
+    position: absolute;
+    top: 0;
+    left: 29.69rem;
+    width: 25rem;
+    height: 31.25rem;
+  }
+  .rectangle-parent13 {
+    position: absolute;
+    top: 22.81rem;
+    left: 1.25rem;
+    width: 22.31rem;
+    height: 7.5rem;
+    text-align: left;
+    font-size: var(--font-size-5xs);
+    color: var(--color-steelblue);
+  }
+  .frame-child7,
+  .rectangle-parent11 {
+    position: absolute;
+    top: 0;
+    height: 31.25rem;
+  }
+  .rectangle-parent11 {
+    left: 114.06rem;
+    width: 25rem;
+  }
+  .frame-child7 {
+    left: 0;
+    border-radius: var(--br-md);
+    width: 24.94rem;
+    object-fit: cover;
+  }
+  .frame-child8,
+  .group-child20 {
+    position: absolute;
+    left: 8.31rem;
+  }
+  .group-child20 {
+    top: 28.69rem;
+    width: 0.94rem;
+    height: 0;
+  }
+  .frame-child8 {
+    top: 28.34rem;
+    width: 0.98rem;
+    height: 0.69rem;
+  }
+  .frame-wrapper,
+  .rectangle-parent14 {
+    position: absolute;
+    top: 0;
+    height: 31.25rem;
+  }
+  .rectangle-parent14 {
+    left: 0;
+    width: 25rem;
+  }
+  .frame-wrapper {
+    left: 57.81rem;
+    width: 24.94rem;
+  }
+  .material-symbolsarrow-back-io-icon1 {
+    position: absolute;
+    top: 14.56rem;
+    left: 82.81rem;
+    width: 1.56rem;
+    height: 2.13rem;
+    overflow: hidden;
+  }
+  .material-symbolsarrow-back-io-icon2 {
+    position: absolute;
+    top: 14.56rem;
+    left: 0;
+    width: 2.13rem;
+    height: 2.13rem;
+    overflow: hidden;
+  }
+  .frame-container,
+  .frame-parent {
+    position: absolute;
+    height: 31.25rem;
+  }
+  .frame-container {
+    top: 0;
+    left: 142.19rem;
+    width: 25rem;
+  }
+  .frame-parent {
+    top: 18.13rem;
+    left: 2.81rem;
+    width: 84.38rem;
+    overflow: hidden;
+    color: var(--color-white);
+  }
+  .frame-div {
+    position: absolute;
+    top: 162.31rem;
+    left: 0;
+    width: 100%;
+    height: 53.13rem;
+    text-align: center;
+    font-size: var(--font-size-lg);
+    color: var(--color-darkgray);
+    font-family: var(--font-poppins);
+  }
+  

@@ -1,0 +1,80 @@
+.frame-item {
+    position: relative;
+    top: 0;
+    left: 37.5rem;
+    background-color: var(--color-darkgray);
+    width: 37.5rem;
+    height: 11.69rem;
+  }
+  .our-goal-is {
+    margin-block-start: 0;
+    margin-block-end: 5px;
+  }
+  .poor-people {
+    margin: 0;
+  }
+  .m,
+  .our-goal-is-container {
+    position: absolute;
+    top: 3.13rem;
+    left: 49.13rem;
+    letter-spacing: 0.1em;
+    line-height: 1.56rem;
+  }
+  .m {
+    left: 12.88rem;
+    font-size: var(--font-size-4xl);
+    display: flex;
+    color: var(--color-bisque);
+    align-items: center;
+    justify-content: center;
+    width: 9.5rem;
+    height: 2.31rem;
+  }
+  .become-volunteer,
+  .become-volunteer1 {
+    position: absolute;
+    top: 8.06rem;
+    left: 52.13rem;
+    font-size: var(--font-size-xs);
+    letter-spacing: 0.1em;
+  }
+  .become-volunteer1 {
+    top: 7.56rem;
+    left: 11.31rem;
+    font-size: var(--font-size-sm);
+    font-weight: 500;
+    color: var(--color-lightgray);
+  }
+  .frame-inner,
+  .line-div {
+    position: absolute;
+    top: 8.48rem;
+    left: 59.06rem;
+    width: 1.31rem;
+    height: 0.92rem;
+  }
+  .line-div {
+    top: 6.5rem;
+    left: 12.81rem;
+    border-top: 2px solid var(--color-tan);
+    box-sizing: border-box;
+    width: 9.63rem;
+    height: 0.13rem;
+  }
+  .rectangle-container {
+    position: absolute;
+    top: 46.88rem;
+    left: 8.94rem;
+    border-radius: var(--br-md);
+    background-color: var(--color-white);
+    box-shadow: -4px 4px 4px rgba(0, 0, 0, 0.25);
+    width: 75rem;
+    height: 11.69rem;
+    overflow: hidden;
+    text-align: center;
+    font-size: var(--font-size-lg);
+    color: var(--color-white);
+    font-family: var(--font-poppins);
+  }
+  

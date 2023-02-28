@@ -1,0 +1,10 @@
+.hero-icon {
+  position: relative;
+  top: 7.5rem;
+  left: 3.25rem;
+  right: 3.25rem;
+  border-radius: var(--br-xs);
+  width: 87.5rem;
+  height: 43.75rem;
+  overflow: hidden;
+}

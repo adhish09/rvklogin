@@ -1,0 +1,233 @@
+.featured {
+    position: absolute;
+    top: 3.13rem;
+    left: 37.06rem;
+    font-size: var(--font-size-3xl);
+    letter-spacing: 0.1em;
+    font-weight: 500;
+    font-family: var(--font-poppins);
+    color: var(--color-tan);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 15.88rem;
+    height: 2.38rem;
+  }
+  .card-1-child {
+    position: absolute;
+    top: -0.17rem;
+    left: -0.23rem;
+    border-radius: var(--br-lg);
+    width: 14.62rem;
+    height: 14.68rem;
+  }
+  .glimpse {
+    position: absolute;
+    top: 10.69rem;
+    left: 1.5rem;
+    letter-spacing: 0.04em;
+    line-height: 1.13rem;
+    font-weight: 600;
+    display: inline-block;
+    width: 11.25rem;
+    height: 0.94rem;
+  }
+  .image-21-icon {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 6.25rem;
+    height: 6.5rem;
+    object-fit: cover;
+  }
+  .image-21-wrapper {
+    position: absolute;
+    top: 2.5rem;
+    left: 3.94rem;
+    border-radius: var(--br-sm);
+    background-color: var(--color-steelblue);
+    border: 1px solid var(--color-steelblue);
+    box-sizing: border-box;
+    width: 6.25rem;
+    height: 6.52rem;
+    overflow: hidden;
+  }
+  .card-1 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 300px;
+    height: 300px;
+  }
+  .image-5-wrapper {
+    position: absolute;
+    top: 2.5rem;
+    left: 3.96rem;
+    border-radius: var(--br-sm);
+    background-color: var(--color-steelblue);
+    border: 1px solid var(--color-steelblue);
+    box-sizing: border-box;
+    width: 6.25rem;
+    height: 6.52rem;
+    overflow: hidden;
+  }
+  .card-2,
+  .image-6-icon {
+    position: absolute;
+    top: 0;
+  }
+  .card-2 {
+    left: 20.42rem;
+    width: 300px;
+    height: 300px;
+ 
+  }
+  .image-6-icon {
+    left: 0;
+    width: 7.44rem;
+    height: 6.5rem;
+    object-fit: cover;
+  }
+  .image-4-parent {
+    position: absolute;
+    top: 2.5rem;
+    left: 3.98rem;
+    border-radius: var(--br-sm);
+    background-color: var(--color-steelblue);
+    border: 1px solid var(--color-steelblue);
+    box-sizing: border-box;
+    width: 6.25rem;
+    height: 6.52rem;
+    overflow: hidden;
+  }
+  .card-1-parent {
+    position: absolute;
+    height: 14.17rem;
+  }
+  .events1 {
+    position: absolute;
+  }
+  .card-3 {
+    position: absolute;
+    height: 300px;
+    top: 0;
+    left: 40.83rem;
+    width: 300px;
+  }
+  .card-1-parent {
+    top: 12.38rem;
+    left: 17.5rem;
+    width: 55rem;
+  }
+  .events1 {
+    top: 10.69rem;
+    left: 1.44rem;
+    letter-spacing: 0.04em;
+    line-height: 1.13rem;
+    font-weight: 600;
+    display: inline-block;
+    width: 11.25rem;
+    height: 0.94rem;
+  }
+  .image-20-icon {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 7.75rem;
+    height: 6.5rem;
+    object-fit: cover;
+  }
+  .image-2-parent {
+    position: absolute;
+    top: 2.08rem;
+    left: 3.94rem;
+    border-radius: var(--br-sm);
+    background-color: var(--color-steelblue);
+    border: 1px solid var(--color-steelblue);
+    box-sizing: border-box;
+    width: 6.25rem;
+    height: 6.52rem;
+    overflow: hidden;
+  }
+  .image-7-icon {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 7.28rem;
+    height: 8.06rem;
+    object-fit: cover;
+  }
+  .image-4-group {
+    position: absolute;
+    top: 2.08rem;
+    left: 3.96rem;
+    border-radius: var(--br-sm);
+    background-color: var(--color-steelblue);
+    border: 1px solid var(--color-steelblue);
+    box-sizing: border-box;
+    width: 6.25rem;
+    height: 6.52rem;
+    overflow: hidden;
+  }
+  .work-with-us {
+    margin-block-start: 0;
+    margin-block-end: 0;
+  }
+  .image-2-group {
+    position: absolute;
+    top: 2.08rem;
+    left: 3.98rem;
+    border-radius: var(--br-sm);
+    background-color: var(--color-steelblue);
+    border: 1px solid var(--color-steelblue);
+    box-sizing: border-box;
+    width: 6.25rem;
+    height: 6.52rem;
+    overflow: hidden;
+  }
+  .card-4-parent {
+    position: absolute;
+    top: 32.79rem;
+    left: 17.5rem;
+    width: 55rem;
+    height: 14.17rem;
+  }
+  .image-2,
+  .image-4 {
+    position: absolute;
+    top: 14.88rem;
+    left: 21.44rem;
+    width: 6.25rem;
+    height: 6.5rem;
+  }
+  .image-4 {
+    left: 41.88rem;
+  }
+  .featured-parent {
+    position: absolute;
+    top: 219.19rem;
+    width: 100%;
+    left:0;
+    height: 51rem;
+    overflow: hidden;
+    text-align: center;
+    font-size: var(--font-size-2xs);
+    color: var(--color-darkgray);
+    font-family: var(--font-inter);
+  }
+  
+
+  .video-responsive {
+  overflow: hidden;
+  padding-bottom: 56.25%;
+  position: relative;
+  height: 0;
+}
+
+.video-responsive iframe {
+  left: 0;
+  top: 0;
+  height: 100%;
+  width: 100%;
+  position: absolute;
+}
